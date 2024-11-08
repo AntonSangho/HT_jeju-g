@@ -41,6 +41,7 @@
 ## 📚 수업 자료실 
 데이터를 찾아볼 수 있는 사이트예요!
 - 🌍 <a href="https://www.gapminder.org/dollar-street" target="_blank">갭마인더 달러스트리트 ↗️</a>
+- 🌍 <a href="https://www.oecdbetterlifeindex.org/" target="_blank">OECD의 더 나은지수 ↗️</a>
 - 📊 <a href="https://data.seoul.go.kr/" target="_blank">공공데이터포털 ↗️</a>
 - 🏙️ <a href="https://data.seoul.go.kr/" target="_blank">서울시 열린데이터 광장 ↗️</a>
 - 🌤️ <a href="https://data.kma.go.kr/" target="_blank">기상자료 개방 포털 ↗️</a>
