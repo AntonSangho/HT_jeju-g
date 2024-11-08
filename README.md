@@ -50,9 +50,9 @@
 ## 💻 실습 자료실 
 단계별로 따라하면서 배워볼 수 있어요!
 1. 🔰 [구글 colab 튜토리얼 ↗️](https://colab.research.google.com/drive/1P5HzDdWG86M0WwvymqhhgEupiQv-xmdt?usp=drive_link)
-2. 📈 [matplotlib 튜토리얼 ↗️](https://drive.google.com/file/d/1EzfvZhmCgtN3FQy5NzeTcZgxc62SU6Wc/view?usp=drive_link)
-3. 🤖 [chatgpt를 활용한 데이터 분석 ↗️](https://drive.google.com/file/d/1IUP9wARyWTW56ac90AnFQFJjzeMxSQuE/view?usp=drive_link)
-4. 📄 [csv파일을 텍스트로 변환 ↗️](https://drive.google.com/file/d/1mJ6brx1jXyn95DAp2YGDLmoqlHzFfo6p/view?usp=drive_link)
+2. 📈 [matplotlib 튜토리얼 ↗️](https://colab.research.google.com/drive/1EzfvZhmCgtN3FQy5NzeTcZgxc62SU6Wc)
+3. 🤖 [chatgpt를 활용한 데이터 분석 ↗️](https://colab.research.google.com/drive/1IUP9wARyWTW56ac90AnFQFJjzeMxSQuE)
+4. 📄 [csv파일을 텍스트로 변환 ↗️](https://colab.research.google.com/drive/1mJ6brx1jXyn95DAp2YGDLmoqlHzFfo6p)
 5. 🗂️ [샘플데이터 ↗️](https://drive.google.com/file/d/1PiSORvIL8Cnr1m8CEjih6J04rH6PBfFC/view?usp=drive_link)
 
 ## 🤔 궁금한 점이 있다면?
