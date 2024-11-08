@@ -51,8 +51,8 @@
 1. 🔰 <a href="https://colab.research.google.com/drive/1P5HzDdWG86M0WwvymqhhgEupiQv-xmdt?usp=drive_link" target="_blank">구글 colab 튜토리얼 ↗️</a>
 2. 📈 <a href="https://colab.research.google.com/drive/1EzfvZhmCgtN3FQy5NzeTcZgxc62SU6Wc" target="_blank">matplotlib 튜토리얼 ↗️</a>
 3. 🤖 <a href="https://colab.research.google.com/drive/1IUP9wARyWTW56ac90AnFQFJjzeMxSQuE" target="_blank">chatgpt를 활용한 데이터 분석 ↗️</a>
-4. 📄 <a href="https://colab.research.google.com/drive/1mJ6brx1jXyn95DAp2YGDLmoqlHzFfo6p" target="_blank">csv파일을 텍스트로 변환 ↗️</a>
-5. 🗂️ <a href="https://drive.google.com/file/d/1PiSORvIL8Cnr1m8CEjih6J04rH6PBfFC/view?usp=drive_link" target="_blank">샘플데이터 ↗️</a>
+4. 📄 <a href="https://colab.research.google.com/drive/1mJ6brx1jXyn95DAp2YGDLmoqlHzFfo6p" target="_blank">csv파일을 텍스트로 변환해서 chatgpt에 데이터 분석요청 ↗️</a>
+5. 🗂️ <a href="https://drive.google.com/file/d/1PiSORvIL8Cnr1m8CEjih6J04rH6PBfFC/view?usp=drive_link" target="_blank">공공데이터 샘플 ↗️</a>
 
 ## 🤔 궁금한 점이 있다면?
 질문은 언제든 환영입니다! ping시트에 자유롭게 작성해주세요! 
